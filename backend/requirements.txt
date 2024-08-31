@@ -1,0 +1,13 @@
+uvicorn
+fastapi
+sqlalchemy
+asyncpg 
+psycopg
+psycopg-binary
+alembic
+pydantic
+pydantic-settings
+requests
+pandas
+openpyxl
+dotenv
